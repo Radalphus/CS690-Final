@@ -1,0 +1,19 @@
+## .NET / C# gitignore
+
+# Build output
+bin/
+obj/
+
+# Data file (generated at runtime)
+data.json
+
+# User-specific VS files
+*.user
+*.suo
+.vs/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
