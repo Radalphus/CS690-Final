@@ -5,7 +5,7 @@ namespace MealPlanner;
 public static class DataStore
 {
     private static readonly string DataPath = "data.json";
-    public static AppData Data { get; private set; } = new();
+    public static AppData Data { get; set; } = new();
 
     public static void Initialize()
     {
