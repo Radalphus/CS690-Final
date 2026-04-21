@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>MealPlanner</AssemblyName>
     <RootNamespace>MealPlanner</RootNamespace>
+    <Version>3.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
